@@ -60,7 +60,6 @@ export default {
             title: this.todo.title,
             isCompleted: this.todo.completed,
         }
-
     },
 
     methods: {
